@@ -1,7 +1,7 @@
 import time
 print ("Helow world, Python is one of the best scripting language")
 
-myList = ["so let us","learn python", "to be come ","good hackers","Bye!!"]
+myList = ["so let us","learn python", "to become ","good hackers","Bye!!"]
 
 for i in myList:
     print (i,end="\n")
