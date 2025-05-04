@@ -9,3 +9,6 @@ for i in myList:
 
 print ("\nLet us Enjoy scripting programming")
 print ("\nAll hackers enjoy using python scripts fo automation")
+
+message = input ("\nPlease share with us about your favourite scripting language:\n")
+print ("Your comment is :\n",message)
